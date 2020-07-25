@@ -1,0 +1,10 @@
+{'url': 'https://www.nytimes.com/2010/12/05/travel/05indigo-checkin.html'}
+{'url': 'https://www.nytimes.com/1969/01/26/archives/mood-indigo-by-boris-vian-translated-from-the-french-lecume-des.html'}
+{'url': 'https://www.nytimes.com/1969/03/16/archives/mood-indigo.html'}
+{'url': 'https://www.nytimes.com/1980/06/28/archives/barney-bigard-jazz-clarinetist-74-wrote-mood-indigo.html'}
+{'url': 'https://www.nytimes.com/1968/07/28/archives/indigo-is-declared-ocean-sail-winner.html'}
+{'url': 'https://www.nytimes.com/1966/07/03/archives/bad-weather-dogs-ocean-race-germania-vi-audacious-lead.html'}
+{'url': 'https://www.nytimes.com/video/movies/100000003008786/movie-review-mood-indigo.html'}
+{'url': 'https://www.nytimes.com/1966/03/10/archives/vamp-x-nearing-southern-ocean-racing-crown-turners-sloop-has.html'}
+{'url': 'https://www.nytimes.com/1936/03/29/archives/indigo-25-takes-carolina-cup-race-schiffs-timbertopping-ace-ridden.html'}
+{'url': 'https://www.nytimes.com/1935/05/05/archives/virginia-gold-cup-annexed-by-indigo-northwood-stables-gelding-leads.html'}
